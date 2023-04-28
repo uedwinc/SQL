@@ -1,1 +1,1 @@
-This directory contains all SQL projects with Tableau or other visualizations
+This directory contains all SQL projects with Tableau and/or other visualizations
